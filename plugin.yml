@@ -1,7 +1,7 @@
-name: AdminFun
+name: NekoFun
 main: AdminFun\AdminFun
 version: 1.0.0build1
-api: 1.7.0
+api: 2.0.0
 author: hoyinm
 description: Let admins to have fun and troll players
 website: http://www.cybercube-hk.com
